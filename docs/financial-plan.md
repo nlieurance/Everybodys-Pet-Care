@@ -14,7 +14,7 @@ Funds held by the Fiscal Sponsor will be used exclusively for:
 - Mileage reimbursement for client visits.
 
 ## Initial funding request:
-We seek a Fiscal Sponsor to help secure $[Amount, e.g., $12,000–$18,000] in initial grants and donations. This would allow us to:
+We seek a Fiscal Sponsor to help secure $35,000 in initial grants and donations. This would allow us to:
 - Offer sponsored care slots to our most vulnerable clients in Year 1.
 - Cover essential start-up outreach and operational costs.
 - Build a track record of impact to attract ongoing community support.
