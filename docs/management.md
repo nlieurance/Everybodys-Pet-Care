@@ -11,9 +11,9 @@ Nick Lieurance, Founder & Sole Provider: Responsible for all client care, operat
 ## Legal & safety framework:
 
 - **Legal entity**: Everybody’s Pet Care, LLC – registered in the state of Colorado to provide liability protection and operational clarity.
-- **Insurance & Bonding**: Comprehensive pet-sitter liability insurance and a surety bond for client peace of mind.
+- **Insurance & bonding**: Comprehensive pet-sitter liability insurance and a surety bond for client peace of mind.
 - **Licensing**: Full compliance with Fort Collins, Colorado business licensing requirements.
-- **Safety Protocols**: Detailed client/pet intake profiles, service agreements, liability waivers, and proof of pet vaccinations required.
+- **Safety protocols**: Detailed client/pet intake profiles, service agreements, liability waivers, and proof of pet vaccinations required.
 
 ## Fiscal sponsorship model:
 - This project seeks a formal partnership with a 501(c)(3) organization to serve as Fiscal Sponsor.
