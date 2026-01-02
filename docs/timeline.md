@@ -1,3 +1,7 @@
+---
+sidebar_position: 9
+---
+
 # 8. Timeline
 
 ## **Quarter 1: Foundation and setup (January - March 2026)**

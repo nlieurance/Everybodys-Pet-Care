@@ -1,3 +1,7 @@
+---
+sidebar_position: 8
+---
+
 # 7. Financial plan and funding request
 
 ## Revenue streams:
