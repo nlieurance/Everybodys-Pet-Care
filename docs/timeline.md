@@ -8,7 +8,7 @@ sidebar_position: 9
 
 ### **January 2026: Planning and preparation**
 - [ ] Finalize business plan and operational documents
-- [ ] Secure domain (EverybodyPetCare.com) and social media handles
+- [x] Secure domain (everybodyspetcare.com) and social media handles
 - [ ] Research and identify 3-5 potential fiscal sponsors
 - [ ] Create client intake forms, service agreements, and liability waivers
 - [ ] **Week 4 status check:** All documents drafted, sponsor list finalized
