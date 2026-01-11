@@ -4,153 +4,192 @@ sidebar_position: 9
 
 # 8. Timeline
 
-## **Quarter 1: Foundation and setup (January - March 2026)**
+## **Our sustainable pace approach**
 
-### **January 2026: Planning and preparation**
-- [ ] Finalize business plan and operational documents
-- [x] Secure domain (everybodyspetcare.com) and social media handles
-- [x] Research and identify 3-5 potential fiscal sponsors
-- [ ] Create client intake forms, service agreements, and liability waivers
-- [ ] **Week 4 status check:** All documents drafted, sponsor list finalized
+**Founder commitment: 10 hours per week maximum**
 
-### **February 2026: Legal formation**
-- [ ] File LLC formation with state (Everybody's Pet Care, LLC)
-- [ ] Obtain EIN from IRS
-- [ ] Secure comprehensive liability insurance and surety bond ($500-$800)
-- [ ] Open business bank account
-- [ ] **Week 4 status check:** Legal entity established, insured, and banked
+This timeline reflects our commitment to building a sustainable, quality-focused enterprise rather than pursuing rapid growth. We believe that by limiting our weekly commitment to 10 hours, we ensure:
 
-### **March 2026: Licensing and initial outreach**
-- [ ] Obtain city/county business licenses and home occupation permit
-- [ ] Begin outreach to potential fiscal sponsors (initial meetings)
-- [ ] Set up basic bookkeeping system
-- [ ] Create marketing materials (simple brochure, website landing page)
-- [ ] **Q1 milestone (March 31):** Fully legal, insured, and ready for clients
+1. **Service excellence** through deep client relationships
+2. **Founder sustainability** without burnout
+3. **Measured growth** that proves our model's viability
+4. **Strategic focus** on our highest-impact clients
 
 ---
 
-## **Quarter 2: Partnership and funding launch (April - June 2026)**
+## **Quarter-by-quarter progress plan**
 
-### **April 2026: Sponsor finalization**
+### **Quarter 1: foundation and setup**
+*January - March 2026 | 10 hours/week administrative focus*
+
+**Key activities:**
+- [ ] Legal entity formation (LLC filing, EIN, insurance)
+- [ ] Business licensing and compliance
+- [ ] Initial fiscal sponsor outreach
+- [ ] Systems and document creation
+
+**Target outcomes by March 31:**
+- [ ] Fully legal and insured business entity
+- [ ] Complete operational documents
+- [ ] 2-3 potential fiscal sponsors engaged
+- [ ] Zero service hours delivered (intentional setup phase)
+
+### **Quarter 2: partnership and pilot launch**
+*April - June 2026 | 6 hours admin, 4 hours service*
+
+**Key activities:**
 - [ ] Finalize fiscal sponsorship agreement
-- [ ] Set up "Care for all" fund with sponsor
-- [ ] Submit first grant applications (local community foundations)
-- [ ] Begin outreach to 2-3 key referral partners (senior center, disability org)
-- [ ] **Week 4 status check:** Sponsor secured, first grants submitted
+- [ ] Submit first grant applications
+- [ ] Soft launch with 2 pilot clients
+- [ ] Initial service delivery and feedback collection
 
-### **May 2026: Systems and readiness**
-- [ ] Implement client management system (simple CRM or spreadsheet)
-- [ ] Finalize pricing tiers for sliding scale ($5-$25/visit)
-- [ ] Create emergency protocols and safety checklists
-- [ ] Conduct practice runs with friend/family pets
-- [ ] **Week 4 status check:** All systems operational, ready for first clients
+**Target outcomes by June 30:**
+- [ ] Fiscal sponsor partnership secured
+- [ ] First $5,000 in grant funding secured
+- [ ] 2 active pilot clients served
+- [ ] Proof of concept validated
+- [ ] Maintaining 10-hour weekly commitment
 
-### **June 2026: Pilot launch**
-- [ ] Onboard first 3 pilot clients (1 standard fee, 2 subsidized)
-- [ ] Deliver first 40 hours of paid service
-- [ ] Gather initial testimonials and feedback
-- [ ] Secure first $5,000 in grant funding
-- [ ] **Q2 milestone (June 30):** First clients served, initial funding secured
+### **Quarter 3: gradual ramp-up**
+*July - September 2026 | 2 hours admin, 8 hours service*
 
----
+**Key activities:**
+- [ ] Expand to 5-6 regular clients
+- [ ] Formalize first agency partnership
+- [ ] Implement feedback-driven improvements
+- [ ] Begin systematic impact measurement
 
-## **Quarter 3: Service ramp-up (July - September 2026)**
+**Target outcomes by September 30:**
+- [ ] 5-6 active clients in sustainable rotation
+- [ ] First formal referral partnership established
+- [ ] 80%+ client retention rate
+- [ ] 50/50 revenue mix (fees/philanthropy)
+- [ ] Model proven sustainable at current scale
 
-### **July 2026: Process refinement**
-- [ ] Expand to 8-10 total clients
-- [ ] Refine scheduling and service delivery based on early experience
-- [ ] Formalize partnership with first human service agency
-- [ ] Begin tracking key metrics (hours delivered, client satisfaction)
-- [ ] **Week 4 status check:** Processes smoothed, early metrics positive
+### **Quarter 4: stabilization and planning**
+*October - December 2026 | 2 hours admin, 8 hours service*
 
-### **August 2026: Community integration**
-- [ ] Reach 15 active clients
-- [ ] Add second referral partnership (veterinary clinic or shelter)
-- [ ] Submit second round of grant applications
-- [ ] Begin minor marketing (community Facebook groups, local bulletins)
-- [ ] **Week 4 status check:** Community connections growing, client base stable
-
-### **September 2026: Impact measurement**
-- [ ] Deliver 200+ cumulative service hours
-- [ ] Complete first impact assessment with pilot clients
-- [ ] Reach 20 total clients served
-- [ ] Achieve 50/50 revenue mix (client fees/philanthropy)
-- [ ] **Q3 milestone (September 30):** Model proven, moving toward sustainability
-
----
-
-## **Quarter 4: Stabilization and planning (October - December 2026)**
-
-### **October 2026: Systems optimization**
-- [ ] Implement feedback improvements to client experience
-- [ ] Formalize third community partnership
-- [ ] Reach 25 active clients
-- [ ] Begin waitlist management as capacity approaches limits
-- [ ] **Week 4 status check:** Systems efficient, client satisfaction high
-
-### **November 2026: Financial assessment**
-- [ ] Complete detailed financial review of first 10 months
-- [ ] Adjust pricing tiers if needed based on real data
-- [ ] Secure additional $10,000 in funding for 2027
-- [ ] Prepare year 1 impact report draft
-- [ ] **Week 4 status check:** Financial picture clear, 2027 funding in progress
-
-### **December 2026: Year-end review and planning**
-- [ ] Reach 30+ clients served (cumulative)
-- [ ] Deliver 500+ total service hours
-- [ ] Finalize year 1 impact report with testimonials
+**Key activities:**
+- [ ] Maintain 6-client service load
+- [ ] Complete first financial assessment
+- [ ] Prepare comprehensive year 1 impact report
 - [ ] Plan Q1 2027 objectives
-- [ ] **Q4 milestone (December 31):** Break-even operational status achieved
+
+**Target outcomes by December 31:**
+- [ ] Sustainable 6-client operation achieved
+- [ ] 60%+ of operational costs covered by client fees
+- [ ] $20,000+ secured for 2027 operations
+- [ ] 3+ community partnerships established
+- [ ] Clear path forward for year 2
 
 ---
 
-## **Year 1 key performance indicators**
+## **Capacity and impact metrics**
 
-| Metric | Q1 target | Q2 target | Q3 target | Q4 target |
-|--------|-----------|-----------|-----------|-----------|
-| **Active clients** | 0 | 5-10 | 15-20 | 25-30 |
-| **Service hours** | 0 | 40-80 | 150-200 | 450-500 |
-| **Revenue mix** | N/A | 40/60 | 50/50 | 60/40 |
-| **Funding secured** | $0 | $5,000 | $15,000 | $25,000 |
-| **Community partners** | 0 | 1-2 | 2-3 | 3-4 |
+### **Weekly time allocation (Q3-Q4)**
+| Activity | Hours/week | Percentage |
+|----------|------------|------------|
+| Direct client service | 8 | 80% |
+| Administration & billing | 1 | 10% |
+| Partnership development | 1 | 10% |
+| **Total** | **10** | **100%** |
 
----
+### **Service capacity mathematics**
+- **8 service hours/week** = approximately 4 clients at 2 hours/week each
+- **Realistic client load** = 5-6 clients with varying needs
+- **Buffer time** = built in for travel and unexpected situations
+- **Maximum annual impact** = 400-450 service hours (sustainable pace)
 
-## **Critical capacity limits (year 1)**
+### **Financial projections**
+| Quarter | Monthly revenue | Grant funding | Clients served |
+|---------|----------------|---------------|----------------|
+| Q1 | $0 | $0 | 0 |
+| Q2 | $160-$240 | $5,000 | 2 |
+| Q3 | $640-$800 | $10,000 | 5-6 |
+| Q4 | $640-$800 | $5,000 | 6 |
 
-- **Maximum weekly hours:** 30 (to prevent burnout, ensure quality)
-- **Ideal client load:** 20-25 active clients
-- **Service cap:** 500-600 hours/year as sole provider
-- **Growth speed:** 2-3 new clients/month sustainable pace
-
----
-
-## **Success criteria for year 1**
-
-1. **Legal and safe:** Fully licensed, insured, and compliant (month 3)
-2. **Financially viable:** 60%+ of operational costs covered by client fees (month 12)
-3. **Impactful:** 500+ service hours delivered, primarily to target populations
-4. **Sustainable founder model:** 25-30 hour work week maintained
-5. **Community integrated:** 3+ formal referral partnerships established
-6. **Funding pipeline:** $20,000+ secured for 2027 operations
+*Based on sliding scale fees of $20-$40 per service hour*
 
 ---
 
-## **Quarterly review points**
+## **Strategic advantages of the 10-hour model**
 
-1. **End of Q1 (March 2026):** Are we legal, insured, and ready? If yes, proceed.
-2. **End of Q2 (June 2026):** Do we have clients and funding? Is the model working?
-3. **End of Q3 (September 2026):** Are clients satisfied? Are we financially on track?
-4. **End of Q4 (December 2026):** Should we continue, pivot, or expand in year 2?
+### **For quality assurance**
+- Deep, personalized relationships with each client and pet
+- Ample time for thorough documentation and communication
+- Ability to handle complex cases (reactive dogs, medical needs)
+- Consistent, reliable service without overextension
+
+### **For financial sustainability**
+- Lower upfront investment required
+- Gradual proof of concept reduces risk
+- Clear path to operational breakeven
+- Sustainable without requiring immediate scale
+
+### **For partnership development**
+- Dedicated time for agency relationship building
+- Capacity to participate in community initiatives
+- Ability to demonstrate impact before seeking expansion funding
+- Focus on strategic rather than numerous partnerships
 
 ---
 
-## **Resource requirements (year 1)**
+## **Adjustment and decision points**
 
-| Resource | Q1 | Q2 | Q3 | Q4 |
-|----------|----|----|----|----|
-| **Founder time** | 10-15 hrs/week | 20-25 hrs/week | 25-30 hrs/week | 25-30 hrs/week |
-| **Cash investment** | $1,500 (setup) | $500 (ops) | $500 (ops) | $500 (ops) |
-| **Grant funding need** | $0 | $5,000 | $10,000 | $10,000 |
+### **Quarterly review metrics**
+We will make strategic decisions based on these quarterly assessments:
 
-*This one-year plan is intentionally conservative, prioritizing sustainability and proof of concept over rapid growth. The goal is not to maximize scale but to prove a replicable model that balances social impact with financial viability.*
+1. **End of Q1:** Are we legally ready and properly insured?
+2. **End of Q2:** Is our service model working? Are clients satisfied?
+3. **End of Q3:** Are we financially on track? Should we adjust pricing?
+4. **End of Q4:** Should we continue at this pace, adjust hours, or expand?
+
+### **Capacity management**
+- **Waitlist initiation:** Begin at 4 active clients
+- **Rate adjustments:** Consider at 6-month mark based on demand
+- **Expansion consideration:** Only after 12 months of sustainable operation
+- **Quality safeguards:** Client load never exceeds ability to provide excellent care
+
+---
+
+## **Why this timeline works for investors**
+
+### **Risk mitigation**
+1. **Low burn rate** with limited weekly commitment
+2. **Proven demand** before seeking expansion capital
+3. **Clear metrics** for evaluating success
+4. **Multiple off-ramps** if model needs adjustment
+
+### **Impact validation**
+1. **Measured growth** allows for continuous improvement
+2. **Quality focus** ensures strong testimonials and referrals
+3. **Community integration** builds sustainable referral networks
+4. **Data collection** provides evidence for future funding
+
+### **Scalability proof**
+1. **Unit economics** proven at small scale
+2. **Operational systems** refined before expansion
+3. **Partnership model** tested and validated
+4. **Market demand** quantified through waitlist management
+
+---
+
+## **The path to year 2**
+
+**Success in year 1 is defined by:**
+- Sustainable 6-client service load
+- 60%+ operational costs covered by fees
+- 3+ formal community partnerships
+- Founder maintaining work-life balance
+- Documented impact on client quality of life
+
+**Year 2 planning will begin in Q4 2026 and may consider:**
+- Maintaining the 10-hour sustainable model
+- Gradual increase to 15 hours/week
+- Adding a part-time assistant or second caregiver
+- Expanding to adjacent neighborhoods
+- Deepening existing community partnerships
+
+---
+
+*This timeline represents a responsible, impact-focused approach to building a social enterprise. By prioritizing sustainability and quality over rapid growth, we ensure long-term viability and meaningful community impact.*
