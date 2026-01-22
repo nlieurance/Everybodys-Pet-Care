@@ -1,4 +1,8 @@
-# Get in touch
+---
+sidebar_position: 10
+---
+
+# 9. Get in touch
 
 Do you run an animal rescue or a shelter? Are you a donor looking for an animal welfare cause? Let's connect!
 
